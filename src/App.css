@@ -1,0 +1,36 @@
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+body {
+  background: rgba(76, 50, 100, 0.466);
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.mainHeading {
+  font-size: 40px;
+}
+
+.count {
+  font-size: 35px;
+  border-color: rgb(21, 119, 86);
+  border-radius: 30%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  margin: 10px;
+  padding: 10px;
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 15px;
+  outline: none;
+}
